@@ -1,0 +1,36 @@
+# Teja Darkest theme for Plank
+# Author: ju1464
+
+[PlankTheme]
+TopRoundness=4
+BottomRoundness=0
+LineWidth=0
+OuterStrokeColor=54;;102;;177;;0
+FillStartColor=34;;43;;57;;200
+FillEndColor=34;;43;;57;;200
+InnerStrokeColor=34;;43;;57;;0
+
+[PlankDockTheme]
+HorizPadding=2
+TopPadding=2
+BottomPadding=2
+ItemPadding=2
+IndicatorSize=8
+IconShadowSize=0
+UrgentBounceHeight=1.6666666666666667
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=300
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=300
+SlideTime=300
+FadeTime=250
+HideTime=150
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2000
+UrgentHueShift=150
+ItemMoveTime=450
+CascadeHide=true
+BadgeColor=0;;0;;0;;0
